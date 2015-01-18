@@ -1,6 +1,6 @@
 var http = require('http')
   , server = http.createServer()
-  , version  = require('./check.js');
+  , version  = require('../lib/check.js');
 
 const NAME = 'Hype'
     , PORT = 3434
