@@ -1,0 +1,16 @@
+{
+  "name": "cjdns-version",
+  "version": "0.0.1",
+  "description": "Check the current CJDNS version.",
+  "main": "lib/check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "check",
+    "cjdns",
+    "version"
+  ],
+  "author": "William Wennström <william@megalicious.org>",
+  "license": "GPLv3"
+}
